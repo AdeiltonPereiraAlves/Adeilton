@@ -7,8 +7,9 @@
  <a href="https://github.com/AdeiltonPereiraAlves">
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeiltonPereiraAlves&show_icons=true&theme=radical)
+ <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeiltonPereiraAlves&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<div styele =" disply:inline;">
+<div style =" disply:inline;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  height ="80px" width= "80px"/>
 
 
