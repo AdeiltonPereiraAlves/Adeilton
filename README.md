@@ -1,5 +1,5 @@
 # Adeilton
-## olá, meu nome é Adeilton 
+## Olá, meu nome é Adeilton 
  😊 Atualmente estou fazendo faculdade de ADS no IFPB - Cajazeiras
 - Estudando a liguagem C
 - Estudando a linguagem Javascript
