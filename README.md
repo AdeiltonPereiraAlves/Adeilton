@@ -1,9 +1,9 @@
 
 # Olá, meu nome é Adeilton 
  😊 Atualmente estou cursando ADS no IFPB - Cajazeiras
-- Estudando a liguagem C
-- Estudando a linguagem Javascript
-- Html e css
+- Html, Css, Js
+- React, Node, tailwinds
+- Sql
  <a href="https://github.com/AdeiltonPereiraAlves">
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeiltonPereiraAlves&show_icons=true&theme=radical)
