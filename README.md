@@ -19,7 +19,10 @@
   
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height ="80px" width= "80px" />
+
+<img src = "https://logospng.org/download/react/logo-react-1024.png" heigth ="80px" width = "80px"/>
  
+
 
 
           
