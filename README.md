@@ -2,7 +2,7 @@
 # Olá, meu nome é Adeilton 
  😊 Atualmente estou cursando ADS no IFPB - Cajazeiras
 - Html, Css, Js
-- React, Node, tailwinds
+- React, Node, tailwind
 - Sql
  <a href="https://github.com/AdeiltonPereiraAlves">
 
