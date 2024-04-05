@@ -4,7 +4,7 @@
 - Html, Css, Js
 - React, tailwindcss
 - Node
-- Mysql
+- MySql
  <a href="https://github.com/AdeiltonPereiraAlves">
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeiltonPereiraAlves&show_icons=true&theme=radical)
