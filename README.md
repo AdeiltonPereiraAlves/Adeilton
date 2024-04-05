@@ -2,8 +2,9 @@
 # Olá, meu nome é Adeilton 
  😊 Atualmente estou cursando ADS no IFPB - Cajazeiras
 - Html, Css, Js
-- React, Node, tailwind
-- Sql
+- React, tailwindcss
+- Node
+- Mysql
  <a href="https://github.com/AdeiltonPereiraAlves">
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeiltonPereiraAlves&show_icons=true&theme=radical)
@@ -22,6 +23,7 @@
 
 <img src = "https://logospng.org/download/react/logo-react-1024.png" heigth ="80px" width = "80px"/>
 <img src = "https://logospng.org/download/mysql/mysql-256.png" heigth ="80px" width = "80px"/>
+<img src = "https://cdn.iconscout.com/icon/free/png-512/free-nodejs-1-226034.png?f=webp&w=256" heigth ="80px" width = "80px"/>
  
 
 
