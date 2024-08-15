@@ -4,6 +4,8 @@
 - Html, Css, Js
 - React, tailwindcss
 - Node
+- TypeScript
+- Java
 - MySql
  <a href="https://github.com/AdeiltonPereiraAlves">
 
@@ -24,6 +26,8 @@
 <img src = "https://logospng.org/download/react/logo-react-1024.png" heigth ="80px" width = "80px"/>
 <img src = "https://logospng.org/download/mysql/mysql-256.png" heigth ="80px" width = "80px"/>
 <img src = "https://cdn.iconscout.com/icon/free/png-512/free-nodejs-1-226034.png?f=webp&w=256" heigth ="80px" width = "80px"/>
+<img src = "https://w7.pngwing.com/pngs/616/528/png-transparent-angularjs-typescript-javascript-vue-js-others-blue-angle-text-thumbnail.png" heigth ="80px" width = "80px"/>
+<img src = "https://w7.pngwing.com/pngs/578/816/png-transparent-java-class-file-java-platform-standard-edition-java-development-kit-java-runtime-environment-coffee-jar-text-class-orange-thumbnail.png" heigth ="80px" width = "80px"/>
  
 
 
