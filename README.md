@@ -6,7 +6,7 @@
 - Node
 - TypeScript
 - Java
-- |PostgreSql
+- PostgreSql
  <a href="https://github.com/AdeiltonPereiraAlves">
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeiltonPereiraAlves&show_icons=true&theme=radical)
